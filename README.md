@@ -10,7 +10,6 @@ This project contains a collection of Python scripts that can be used for penetr
 - `nmap_scanning_tool.py`: Tool for network scanning using Nmap.
 - `brute_force_tool.py`: Tool for password cracking using brute force.
 - `text_replacement_tool.py`: Tool for replacing specific patterns in text (e.g., phone numbers, emails, dates).
-- `main_script.log`: Log file for recording events.
 
 ## How to Use
 
